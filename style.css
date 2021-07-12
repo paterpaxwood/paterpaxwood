@@ -1,0 +1,90 @@
+.titleSlug{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   text-align: center;
+}
+
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+a {
+    background-color:gainsboro;
+    color: black;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px auto;
+    padding: 15px 30px;
+    text-align: center;
+    width: 300px;
+}
+
+.hero-area {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1NSXZYVdiFKmwicKfu6JyCy25rbXOA5kNA&usqp=CAU);
+    background-size: cover;
+    color: white;
+    
+
+#intro{
+    margin: auto;
+    width: 50%;
+    border: 3px solid blue;
+    padding: 10px;
+    background-color: lightblue;
+}
+#training{
+    background-image: url(‘https://www.shutterstock.com/image-vector/abstract-futuristic-cyberspace-binary-code-matrix-740523562’);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-color: lightblue;
+}
+#resources{
+    background-image: url(‘https://www.shutterstock.com/image-vector/abstract-futuristic-cyberspace-binary-code-matrix-740523562’);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-color: lightblue;
+}
+#conferences{
+    background-image: url(‘https://www.shutterstock.com/image-vector/abstract-futuristic-cyberspace-binary-code-matrix-740523562’);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: lightblue;
+   }
+
+   .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+     }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    }
+
+    .close {
+        color: #aaaaaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+      }
+ .close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+   
