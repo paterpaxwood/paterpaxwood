@@ -5,7 +5,7 @@
 
 .body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
+    color: rgb(22, 22, 22);
 }
 
 a {
@@ -22,7 +22,7 @@ a {
 .hero-area {
     background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1NSXZYVdiFKmwicKfu6JyCy25rbXOA5kNA&usqp=CAU);
     background-size: cover;
-    color: white;
+    color: rgb(8, 8, 8);}
     
 
 #intro{

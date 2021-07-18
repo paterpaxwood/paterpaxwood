@@ -1,9 +1,3 @@
-const ga = document.getElementsByTagName('a');
-function sayThanks(){
-    console.log("thanks!")
-}
-ga.addEventListener('click', sayThanks);
-
 // Get the modal
 var modal = document.getElementById("myModal");
 
